@@ -18,26 +18,26 @@
 
 课程介绍界面：
 
-![image-20210308153200430](C:\Users\admin\AppData\Roaming\Typora\typora-user-images\image-20210308153200430.png)
+![image-20210308153200430](https://github.com/BigStrawberry0225/Web_experiment1/blob/main/img-floder/image-20210308153200430.png)
 
 
 
 查看下载教学课件页面：
 
-![image-20210308153408967](C:\Users\admin\AppData\Roaming\Typora\typora-user-images\image-20210308153408967.png)
+![image-20210308153408967](https://github.com/BigStrawberry0225/Web_experiment1/blob/main/img-floder/image-20210308153355844.png)
 
-![image-20210308153433971](C:\Users\admin\AppData\Roaming\Typora\typora-user-images\image-20210308153433971.png)
+![image-20210308153433971](https://github.com/BigStrawberry0225/Web_experiment1/blob/main/img-floder/image-20210308153433971.png)
 
 
 
 查看下载教学视频界面：
 
-![image-20210308153525069](C:\Users\admin\AppData\Roaming\Typora\typora-user-images\image-20210308153525069.png)
+![image-20210308153525069](https://github.com/BigStrawberry0225/Web_experiment1/blob/main/img-floder/image-20210308153525069.png)
 
-![image-20210308153545700](C:\Users\admin\AppData\Roaming\Typora\typora-user-images\image-20210308153545700.png)
+![image-20210308153545700](https://github.com/BigStrawberry0225/Web_experiment1/blob/main/img-floder/image-20210308153545700.png)
 
 
 
 留言板界面：
 
-![image-20210308153640153](C:\Users\admin\AppData\Roaming\Typora\typora-user-images\image-20210308153640153.png)
+![image-20210308153640153](https://github.com/BigStrawberry0225/Web_experiment1/blob/main/img-floder/image-20210308153640153.png)
