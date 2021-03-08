@@ -1,0 +1,87 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>留言板</title>
+<link href="css/style.css" rel="stylesheet" type="text/css">
+<style>
+	#lyleft{
+	border-radius:6px;
+	position:relative; 
+	left:20px; 
+	float:left;
+	top:12px; width:60%;
+	height:350px;
+	
+}
+#lyright{
+	position:relative; 
+	right:20px; float:right;
+	top:12px; width:35%;height:500px;
+}
+#ly{
+	position:relative; 
+	left:180px;
+	top:0px;
+	width:80%;
+	height:30px; 
+}
+	#pn{list-style-type:none;}
+	#pn li{width:700px}
+	#lyb{
+	margin-bottom:10px;background-color:rgba(255,255,255,0.8);left:150px;top:0px;width:100%;height:100%;overflow-y:auto;
+	}
+.content {
+	width:450px;
+	line-height:20px;
+	font-size:14px;
+	margin-left:70px;
+}
+.row a{
+color:red;
+}
+.row input{
+	padding:5px 10px;
+	border-radius:5px;
+}
+.row{
+	height:500px;
+}
+</style>
+<script type="text/javascript" src="liuyan2.js"></script>
+</head>
+<body>
+<div class="header"><img src="image/logo.jpg"><em>山东大学</em><br>SHANDONG UNIVERSITY</div>
+
+<ul class="topmenu">
+	<li><a  href="index.html">教学大纲</a></li>
+	<li><a href="html.html">课程介绍</a></li>
+	<li><a  href="ppt.html">教学课件</a></li>
+	<li><a href="video.html">视频资料</a></li>
+	<li><a class="active" href="liuyan.html">留言板</a></li>
+</ul>
+<hr color="white">
+
+<div class="row">
+	<div id="lyleft">
+		<h2 align="center">留言板</h2>
+		<div id="lyb">
+			<ul id="pn">
+			</ul>
+		</div>
+		<div id="ly">
+			<input id ="name" type="text" size="10" placeholder="用户名"/>
+			<input id ="msg" type="text" size="30" placeholder="内容"/>
+		    <input type="button" id="btn" value="留言" onclick="">
+		</div>
+	</div>
+	<div id="lyright">
+	<p align="center"><img src="image/gougou.gif" height=380px align="center"></p>
+	</div>
+</div>
+
+<hr color="white">
+<p align="center" class="white">曹铭哲的Web课程学习网站</p>
+
+</body>
+</html>

@@ -1,0 +1,61 @@
+body {
+    background-image: url("../image/bg1.jpg");
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+    margin:0;
+}
+.header{
+	margin:10px;
+	color:white;
+	font-size:20px;
+	font-family:STZhongsong;
+}
+.header img{
+	width:50px;
+	border-radius:25px;
+	position:relative;
+	top:10px;
+}
+em{
+	font-style:normal;
+	font-size:40px;
+}
+.white{
+	color:white;
+}
+h2{
+	color:#660000;
+}
+.row{
+	margin:10px;
+	background-color:rgba(255,255,255,0.4);
+	padding:10px;
+	
+}
+.active{
+	background-color:rgba(255,255,255,0.8);
+}
+.topmenu{
+ list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color:rgba(255,255,255,0.4);
+}
+.topmenu li{
+	float:left;
+}
+.topmenu li a{
+	margin:0;
+	padding:20px 30px;
+	display:block;
+	color:black;
+}
+.topmenu a:link{
+	text-decoration: none;
+}
+.topmenu a:hover:not(.active){
+	background-color:rgba(255,255,255,0.5);
+}
