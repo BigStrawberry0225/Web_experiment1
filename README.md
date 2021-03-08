@@ -12,7 +12,7 @@
 
 主界面：
 
-![image-20210308153125278](C:\Users\admin\AppData\Roaming\Typora\typora-user-images\image-20210308153125278.png)
+![image-20210308153125278](https://github.com/BigStrawberry0225/Web_experiment1/blob/main/img-floder/image-20210308153125278.png)
 
 
 
